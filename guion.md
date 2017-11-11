@@ -1,6 +1,6 @@
 este sera un pequeño guión de como seria la entrevista individual, las preguntas están enumeradas para que entre todos escojamos cuales son las preguntas definitivas (las preguntas no están en orden).
 
-Mi idea es combinar segmentos de las entrevistas individuales con partes del conservatorio (donde estaríamos todos)
+Mi idea es combinar segmentos de las entrevistas individuales con partes del conversatorio (donde estaríamos todos)
 
 Me gustaría hacer las entrevistas individuales en un ambiente relajado, donde se vea al entrevistado realizando alguna actividad de su vida cotidiana (durante la entrevista NO aparecerá el entrevistador, solo se enfocara al entrevistado) (me gustaría utilizar dos o mas cámaras para grabar la entrevista, algo como lo que se ve en el documental “citizen 4”)
 
