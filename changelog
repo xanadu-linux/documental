@@ -1,4 +1,16 @@
-commit cabda0161f2333334be13df9c45c14133a8c8002 (HEAD, origin/master, origin/HEAD, master)
+commit 1d2e6e350f01a8d2d51b3ee5b7fcd050c51fb53b (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Nov 10 21:49:05 2017 -0400
+
+    * actualizacion
+
+commit cc265e55116a9b3b2dffa442585af71d2d1179a1
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 20 16:50:20 2016 -0400
+
+    * changelog
+
+commit cabda0161f2333334be13df9c45c14133a8c8002
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Nov 20 16:50:06 2016 -0400
 
